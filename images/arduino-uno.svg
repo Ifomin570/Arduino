@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+<rect width="900" height="520" rx="24" fill="#f4f7fb"/>
+<rect x="230" y="85" width="440" height="350" rx="28" fill="#167a55" stroke="#0e553b" stroke-width="8"/>
+<rect x="265" y="120" width="115" height="45" rx="7" fill="#1b2634"/><rect x="282" y="132" width="80" height="20" fill="#34495e"/>
+<rect x="420" y="145" width="135" height="125" rx="9" fill="#222c3a" stroke="#111827" stroke-width="5"/>
+<text x="487" y="195" font-family="Arial" font-size="21" fill="#fff" text-anchor="middle">ATmega</text><text x="487" y="223" font-family="Arial" font-size="21" fill="#fff" text-anchor="middle">328P</text>
+<rect x="260" y="300" width="140" height="60" rx="8" fill="#d6dce5" stroke="#657184" stroke-width="4"/><text x="330" y="337" font-family="Arial" font-size="20" fill="#243043" text-anchor="middle">USB</text>
+<circle cx="600" cy="315" r="15" fill="#ffcf4a" stroke="#9c7410" stroke-width="4"/><text x="610" y="350" font-family="Arial" font-size="18" fill="#fff">LED</text>
+<g fill="#d5b86a" stroke="#8b6d2b" stroke-width="2">
+<rect x="250" y="55" width="20" height="38" rx="3"/><rect x="285" y="55" width="20" height="38" rx="3"/><rect x="320" y="55" width="20" height="38" rx="3"/><rect x="355" y="55" width="20" height="38" rx="3"/><rect x="390" y="55" width="20" height="38" rx="3"/><rect x="425" y="55" width="20" height="38" rx="3"/><rect x="460" y="55" width="20" height="38" rx="3"/><rect x="495" y="55" width="20" height="38" rx="3"/><rect x="530" y="55" width="20" height="38" rx="3"/><rect x="565" y="55" width="20" height="38" rx="3"/><rect x="600" y="55" width="20" height="38" rx="3"/><rect x="250" y="427" width="20" height="38" rx="3"/><rect x="285" y="427" width="20" height="38" rx="3"/><rect x="320" y="427" width="20" height="38" rx="3"/><rect x="355" y="427" width="20" height="38" rx="3"/><rect x="390" y="427" width="20" height="38" rx="3"/><rect x="425" y="427" width="20" height="38" rx="3"/><rect x="460" y="427" width="20" height="38" rx="3"/><rect x="495" y="427" width="20" height="38" rx="3"/><rect x="530" y="427" width="20" height="38" rx="3"/><rect x="565" y="427" width="20" height="38" rx="3"/><rect x="600" y="427" width="20" height="38" rx="3"/></g>
+<text x="450" y="35" font-family="Arial" font-size="27" fill="#233044" text-anchor="middle" font-weight="bold">Arduino Uno — учебная иллюстрация</text>
+<text x="450" y="493" font-family="Arial" font-size="18" fill="#536174" text-anchor="middle">Условная схема внешнего вида платы, не в масштабе</text>
+</svg>
